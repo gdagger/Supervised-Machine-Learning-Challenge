@@ -1,7 +1,7 @@
 # Supervised Machine Learning Challenge
 ### Glen Dagger
 
-The purpose of this challenge is create and fit a Logistic Regression model and Random Forest Classifier to the provided data in order to see which performed better.
+The purpose of this challenge is to create and fit a Logistic Regression model and Random Forest Classifier to the provided data in order compare performance.
 
 <hr>
 
