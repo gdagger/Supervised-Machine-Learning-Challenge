@@ -14,4 +14,4 @@ I first read in the csv file using Pandas and removed all duplicate rows (no val
 
 ### Create, Fit, and Compare Models
 
-I first created and fit a Logistic Regression model using SciKitLearn. This model had a score of about 92% on the testing data. I then created and fit a Random Forest Classifier model with 500 estimators. This model scored about 86% on the testing data. Ultimately, this showed that the Logistic Regression outperformed the Random Forest Classifier and did so much faster.
+I first created and fit a Logistic Regression model using SciKitLearn. This model had a score of about 99.18% on the testing data which took 0.1 seconds or less to create, fit, and compute. I then created and fit a Random Forest Classifier model with 100 estimators. This model scored about 99.15% on the testing data and took around 2.2 seconds in all. Ultimately, this showed that the Logistic Regression barely outperformed the Random Forest Classifier but did so much faster. If the dataset were much larger, I would definitely choose the logistic regression model due to its speed and accuracy.
